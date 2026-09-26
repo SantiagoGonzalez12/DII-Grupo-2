@@ -1,7 +1,7 @@
 # Memoria del Sprint 1: Ideación y Prototipado Base
 
 | | |
-| :--- | :--- |
+| --- | --- |
 | **Curso** | DAM 2 |
 | **Grupo** | Grupo 2 |
 | **Integrantes** | María Dolores <br> Alba Durán <br> Santiago González <br> Jorge Espejo |
