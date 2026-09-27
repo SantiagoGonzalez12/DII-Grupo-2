@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="respuestas.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<encuestas_salud>
+    <!-- Los id del 1 al 7 se han quitado por rellenar un formulario anterior -->
+    <encuesta id="8">
+        <marcaTemporal>2026-09-26T18:15:19</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>ninguna</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>nada</mayorProblema>
+    </encuesta>
+    <encuesta id="9">
+        <marcaTemporal>2026-09-26T18:18:34</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>calendario_google</appActual>
+        <quejaApp>la_memoria</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>que_tengo_muchas</mayorProblema>
+    </encuesta>
+    <encuesta id="10">
+        <marcaTemporal>2026-09-26T18:19:52</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="11">
+        <marcaTemporal>2026-09-26T18:20:27</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>a_menudo</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>olvido_que_es_la_ultima_caja_recetada_y_tengo_que_ir_urgente_al_medico</mayorProblema>
+    </encuesta>
+    <encuesta id="12">
+        <marcaTemporal>2026-09-26T18:21:04</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>calender</appActual>
+        <quejaApp>nada</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>estar_todo_el_dia_ocupada_y_no_acordarme</mayorProblema>
+    </encuesta>
+    <encuesta id="13">
+        <marcaTemporal>2026-09-26T18:22:03</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>el_no_haberlas_apuntado_en_ningun_sitio</mayorProblema>
+    </encuesta>
+    <encuesta id="14">
+        <marcaTemporal>2026-09-26T18:27:05</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="15">
+        <marcaTemporal>2026-09-26T18:28:44</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>casi_siempre</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>las_dos</mayorProblema>
+    </encuesta>
+    <encuesta id="16">
+        <marcaTemporal>2026-09-26T18:29:01</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>lo_que_tardan_las_citas</mayorProblema>
+    </encuesta>
+    <encuesta id="17">
+        <marcaTemporal>2026-09-26T18:29:49</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>acordarme_en_si</mayorProblema>
+    </encuesta>
+    <encuesta id="18">
+        <marcaTemporal>2026-09-26T18:30:40</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>la_falta_de_nota</mayorProblema>
+    </encuesta>
+    <encuesta id="19">
+        <marcaTemporal>2026-09-26T18:33:12</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>tiempo</mayorProblema>
+    </encuesta>
+    <encuesta id="20">
+        <marcaTemporal>2026-09-26T18:33:50</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>el_calendario_o_alarmas_del_movil</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>me_cuesta_coger_citas_medicas_por_la_app</mayorProblema>
+    </encuesta>
+    <encuesta id="21">
+        <marcaTemporal>2026-09-26T18:41:09</marcaTemporal>
+        <rangoEdad>mas_75</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>no_tengo</appActual>
+        <quejaApp>no_tengo</quejaApp>
+        <privacidad>no</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>gestionar_citas_medicas_casi_imposible</mayorProblema>
+    </encuesta>
+    <encuesta id="22">
+        <marcaTemporal>2026-09-26T18:49:43</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>tener_que_buscar_otra_cita</mayorProblema>
+    </encuesta>
+    <encuesta id="23">
+        <marcaTemporal>2026-09-26T18:50:08</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="24">
+        <marcaTemporal>2026-09-26T18:52:52</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>olvido</mayorProblema>
+    </encuesta>
+    <encuesta id="25">
+        <marcaTemporal>2026-09-26T18:53:24</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>olvido</mayorProblema>
+    </encuesta>
+    <encuesta id="26">
+        <marcaTemporal>2026-09-26T18:53:52</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp>paciencia</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>hacerle_el_desayuno_a_mis_hijos</mayorProblema>
+    </encuesta>
+    <encuesta id="27">
+        <marcaTemporal>2026-09-26T18:55:17</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>cuando_salgo_de_viaje</mayorProblema>
+    </encuesta>
+    <encuesta id="28">
+        <marcaTemporal>2026-09-26T18:55:23</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="29">
+        <marcaTemporal>2026-09-26T18:56:10</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="30">
+        <marcaTemporal>2026-09-26T18:57:15</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>a_menudo</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>la_medicacion_que_no_tengo_una_hora_fija</mayorProblema>
+    </encuesta>
+    <encuesta id="31">
+        <marcaTemporal>2026-09-26T18:57:16</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp>poder_concretar_la_posologia</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>si_no_los_tengo_a_mano_los_olvido_incluso_con_la_alarma</mayorProblema>
+    </encuesta>
+    <encuesta id="32">
+        <marcaTemporal>2026-09-26T18:58:47</marcaTemporal>
+        <rangoEdad>menos_18</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>casi_siempre</frecuenciaOlvido>
+        <appActual>myring</appActual>
+        <quejaApp>tiene_anuncios_bastantes_y_recuerda_muy_poco</quejaApp>
+        <privacidad>no</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>la_hora</mayorProblema>
+    </encuesta>
+    <encuesta id="33">
+        <marcaTemporal>2026-09-26T19:02:04</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>calendario</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>repetirme_en_la_mente_que_me_los_tome</mayorProblema>
+    </encuesta>
+    <encuesta id="34">
+        <marcaTemporal>2026-09-26T19:04:51</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="35">
+        <marcaTemporal>2026-09-26T19:08:57</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="36">
+        <marcaTemporal>2026-09-26T19:09:09</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>ninguno</mayorProblema>
+    </encuesta>
+    <encuesta id="37">
+        <marcaTemporal>2026-09-26T19:12:05</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>a_menudo</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>siempre_olvido_fechas_y_las_veces_para_tomarme_las_pastillas</mayorProblema>
+    </encuesta>
+    <encuesta id="38">
+        <marcaTemporal>2026-09-26T19:14:59</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>por_ahora_ninguno</mayorProblema>
+    </encuesta>
+    <encuesta id="39">
+        <marcaTemporal>2026-09-26T19:18:39</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>a_menudo</frecuenciaOlvido>
+        <appActual />
+        <quejaApp>que_me_avisa_cuando_estoy_ocupada_y_luego_se_me_olvida</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>el_problema_es_que_estoy_siempre_muy_ocupada</mayorProblema>
+    </encuesta>
+    <encuesta id="40">
+        <marcaTemporal>2026-09-26T19:20:18</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="41">
+        <marcaTemporal>2026-09-26T19:25:32</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>casi_siempre</frecuenciaOlvido>
+        <appActual>ninguna</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="42">
+        <marcaTemporal>2026-09-26T19:28:33</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>para_tomar_medicamentos_la_frecuencia_de_repeticion_de_la_alarma</mayorProblema>
+    </encuesta>
+    <encuesta id="43">
+        <marcaTemporal>2026-09-26T19:28:50</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>citas_medicas_apps_sanitas_viamed_quiron</appActual>
+        <quejaApp>app_recordatorio_posologia_medicacion</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>problema_solo_para_recordar_medicacion</mayorProblema>
+    </encuesta>
+    <encuesta id="44">
+        <marcaTemporal>2026-09-26T19:34:55</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>casi_siempre</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>se_me_olvida_tomarmela_o_me_la_dejo_en_casa_cuando_estoy_fuera</mayorProblema>
+    </encuesta>
+    <encuesta id="45">
+        <marcaTemporal>2026-09-26T19:36:00</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>hasta_ahora_ninguno</mayorProblema>
+    </encuesta>
+    <encuesta id="46">
+        <marcaTemporal>2026-09-26T19:40:51</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="47">
+        <marcaTemporal>2026-09-26T19:47:19</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>que_se_me_olvida</mayorProblema>
+    </encuesta>
+    <encuesta id="48">
+        <marcaTemporal>2026-09-26T19:52:50</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="49">
+        <marcaTemporal>2026-09-26T19:52:53</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="50">
+        <marcaTemporal>2026-09-26T19:56:12</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="51">
+        <marcaTemporal>2026-09-26T19:59:05</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>calendario_google</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>que_he_tenido_que_incorporar_las_citas</mayorProblema>
+    </encuesta>
+    <encuesta id="52">
+        <marcaTemporal>2026-09-26T20:02:50</marcaTemporal>
+        <rangoEdad>menos_18</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>apuntarlo_en_un_papel_y_perder_el_papel</mayorProblema>
+    </encuesta>
+    <encuesta id="53">
+        <marcaTemporal>2026-09-26T20:06:02</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>no_tener_algo_que_te_recuerde_que_cuando_y_como_tomar_una_medicacion</mayorProblema>
+    </encuesta>
+    <encuesta id="54">
+        <marcaTemporal>2026-09-26T20:06:45</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>no</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>no</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="55">
+        <marcaTemporal>2026-09-26T20:17:52</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="56">
+        <marcaTemporal>2026-09-26T20:25:09</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="57">
+        <marcaTemporal>2026-09-26T21:08:44</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="58">
+        <marcaTemporal>2026-09-26T21:09:50</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>a_menudo</frecuenciaOlvido>
+        <appActual>ninguna</appActual>
+        <quejaApp>ninguna</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>memoria_mala</mayorProblema>
+    </encuesta>
+    <encuesta id="59">
+        <marcaTemporal>2026-09-26T21:13:23</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="60">
+        <marcaTemporal>2026-09-26T21:54:16</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual>calendario</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>no_tener_una_alarma_programada_mensualmente</mayorProblema>
+    </encuesta>
+    <encuesta id="61">
+        <marcaTemporal>2026-09-26T21:56:15</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="62">
+        <marcaTemporal>2026-09-26T22:07:59</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>medicacion_prescrita</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>la_mala_memoria</mayorProblema>
+    </encuesta>
+    <encuesta id="63">
+        <marcaTemporal>2026-09-26T22:13:54</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp>nada</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>ninguna</mayorProblema>
+    </encuesta>
+    <encuesta id="64">
+        <marcaTemporal>2026-09-26T22:32:52</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual>calendario</appActual>
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="65">
+        <marcaTemporal>2026-09-26T23:14:53</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>las_horas_entre_pastilla_y_pastilla</mayorProblema>
+    </encuesta>
+    <encuesta id="66">
+        <marcaTemporal>2026-09-26T23:22:53</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>estar_fuera_de_casa_y_no_llevarlas</mayorProblema>
+    </encuesta>
+    <encuesta id="67">
+        <marcaTemporal>2026-09-26T23:42:09</marcaTemporal>
+        <rangoEdad>31_45</rangoEdad>
+        <preferenciaInicio>recordatorios</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual>familywall</appActual>
+        <quejaApp>nada</quejaApp>
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>si</usaAppRecordatorio>
+        <preferenciaRecordatorio>ambas</preferenciaRecordatorio>
+        <mayorProblema>que_no_lo_tomo_de_manera_habitual</mayorProblema>
+    </encuesta>
+    <encuesta id="68">
+        <marcaTemporal>2026-09-27T00:19:47</marcaTemporal>
+        <rangoEdad>61_75</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>estar_fuera_de_casa</mayorProblema>
+    </encuesta>
+    <encuesta id="69">
+        <marcaTemporal>2026-09-27T00:41:46</marcaTemporal>
+        <rangoEdad>46_60</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>las_apps_medicas</mayorProblema>
+    </encuesta>
+    <encuesta id="70">
+        <marcaTemporal>2026-09-27T00:44:24</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>calendario_citas</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>los_largos_tiempos_entre_que_cojo_la_cita_y_que_voy</mayorProblema>
+    </encuesta>
+    <encuesta id="71">
+        <marcaTemporal>2026-09-27T01:32:22</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema />
+    </encuesta>
+    <encuesta id="72">
+        <marcaTemporal>2026-09-27T01:41:08</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>alguna_vez</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_alarma_con_sonido</preferenciaRecordatorio>
+        <mayorProblema>recordar_horarios_de_los_medicamentos</mayorProblema>
+    </encuesta>
+    <encuesta id="73">
+        <marcaTemporal>2026-09-27T02:30:46</marcaTemporal>
+        <rangoEdad>18_30</rangoEdad>
+        <preferenciaInicio>los_tres</preferenciaInicio>
+        <distinguirSimbolos>si</distinguirSimbolos>
+        <frecuenciaOlvido>nunca</frecuenciaOlvido>
+        <appActual />
+        <quejaApp />
+        <privacidad>si</privacidad>
+        <usaAppRecordatorio>no</usaAppRecordatorio>
+        <preferenciaRecordatorio>una_notificacion_discreta</preferenciaRecordatorio>
+        <mayorProblema>horarios_de_consumo_de_medicamentos</mayorProblema>
+    </encuesta>
+</encuestas_salud>
