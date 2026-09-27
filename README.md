@@ -1,4 +1,4 @@
-# [Nombre de App]
+# Tempomedic
 
 > Recordatorio de medicamentos y gestión de citas médicas: registra tus tratamientos, avisa por notificación o alarma a la hora de cada toma y te ayuda a organizar tus citas médicas.
 
@@ -20,7 +20,7 @@ Proyecto Intermodular | Grado Superior de Desarrollo de Aplicaciones Multiplataf
 
 ## El problema
 
-Olvidar una toma de medicación o perder de vista una cita médica es fácil cuando se combinan varios tratamientos, horarios distintos y poco tiempo. [Nombre de App] centraliza medicación y citas en un solo sitio, con avisos que el usuario elige cómo quiere recibir: una notificación discreta o una alarma con sonido.
+Olvidar una toma de medicación o perder de vista una cita médica es fácil cuando se combinan varios tratamientos, horarios distintos y poco tiempo. Tempomedic centraliza medicación y citas en un solo sitio, con avisos que el usuario elige cómo quiere recibir: una notificación discreta o una alarma con sonido.
 
 Este proyecto está validando el problema y el público objetivo con una encuesta propia: <https://forms.gle/7wxaZCByMmXmqsCx9>.
 
@@ -75,7 +75,7 @@ Tutor del módulo: Willman Acosta Lugo.
 ## Estructura del repositorio
 
 ```
-[Nombre de App]/
+Tempomedic/
 ├─ docs/
 │  ├─ diagramas/        Arquitectura, modelo de datos, navegación
 │  ├─ img/              Capturas y bocetos
