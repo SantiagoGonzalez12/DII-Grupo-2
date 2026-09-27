@@ -25,3 +25,17 @@
 * **1.5.** Alcance del proyecto
 * **1.6.** Limitaciones y exclusiones
 * **1.7.** Estructura de la memoria
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+# 1. INTRODUCCIÓN
+
+## 1.1. Contexto del proyecto
+
+En la actualidad, el uso de dispositivos móviles se ha vuelto indispensable para la gestión de tareas cotidianas, y el ámbito de la salud digital es una de las áreas con mayor crecimiento y demanda tecnológica.
+
+El proyecto consiste en el desarrollo de una aplicación móvil orientada a la gestión individual de la salud, la plataforma tiene en un único sistema dos funcionalidades clave: 
+
+* La reserva y gestión de citas médicas 
+* Módulo de control de medicación con alertas automáticas
+
+En cuanto a la parte técnica de este proyecto el sistema se ha estructurado mediante una arquitectura cliente-servidor. Cuenta con una aplicación móvil como frontend, un backend y una base de datos relacional para la persistencia de la información, además, la aplicación hace uso de servicios en segundo plano y gestores de tareas del sistema operativo móvil para garantizar el lanzamiento preciso de las notificaciones de los medicamentos, incluso en el caso de que no haya conexión a Internet.
