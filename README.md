@@ -91,6 +91,7 @@ Tutor del módulo: Willman Acosta Lugo.
 
 - Memoria completa del proyecto: [`docs/memoria.md`](docs/memoria.md)
 - Encuesta al público objetivo: [`docs/requisitos/ResultadosEncuesta.xml`](docs/requisitos/ResultadosEncuesta.xml)
+- Aplicaciones similares, noticias, estudios y resumen de la encuesta: [`docs/requisitos/recopilaInfo.md`](docs/requisitos/recopilaInfo.md)
 
 ### Encuesta
 #### Formatos incluidos
