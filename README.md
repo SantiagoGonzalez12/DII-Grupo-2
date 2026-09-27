@@ -92,6 +92,33 @@ Tutor del módulo: Willman Acosta Lugo.
 - Memoria completa del proyecto: [`docs/memoria.md`](docs/memoria.md)
 - Encuesta al público objetivo: [`docs/requisitos/ResultadosEncuesta.xml`](docs/requisitos/ResultadosEncuesta.xml)
 
+### Encuesta
+#### Formatos incluidos
+
+| Archivo | Formato | Explicación |
+|---------|---------|-----------------|
+| `respuestas.csv` | CSV | Datos crudos, fáciles de abrir en Excel/LibreOffice/Hoja de calculo. |
+| `respuestas.xml` | XML | Representación semántica, consumible por máquinas. |
+| `respuestas.xsd` | XSD | Contrato que valida y documenta la estructura del XML. |
+
+Los tres archivos contienen **la misma información**; solo cambia la representación.
+
+#### Normalización aplicada
+
+Para garantizar la sostenibilidad y validación del XML, se han normalizado los campos de opción múltiple:
+
+- **Rangos de edad**: `menos_18`, `18_30`, `31_45`, `46_60`, `61_75`, `mas_75`
+- **Sí/No**: `si`, `no` (en minúscula, sin tildes)
+- **Marca temporal**: ISO 8601 (`AAAA-MM-DDThh:mm:ss`)
+- **Campos de texto libre**: se mantienen pero en snake_case, sin tildes ni espacios.
+
+#### Validación
+
+El XML se puede validar con el XSD con cualquier herramienta, ejemplo: VSCode con extensión XML.
+
+#### Privacidad
+Las respuestas son anónimas.
+
 ## Licencia
 
 Proyecto académico desarrollado como Proyecto Intermodular del ciclo de Grado Superior DAM.
