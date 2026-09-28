@@ -39,3 +39,9 @@ El proyecto consiste en el desarrollo de una aplicación móvil orientada a la g
 * Módulo de control de medicación con alertas automáticas
 
 En cuanto a la parte técnica de este proyecto el sistema se ha estructurado mediante una arquitectura cliente-servidor. Cuenta con una aplicación móvil como frontend, un backend y una base de datos relacional para la persistencia de la información, además, la aplicación hace uso de servicios en segundo plano y gestores de tareas del sistema operativo móvil para garantizar el lanzamiento preciso de las notificaciones de los medicamentos, incluso en el caso de que no haya conexión a Internet.
+
+## 1.4. Objetivos del proyecto
+   # 1.4.1. Objetivo general
+
+   # 1.4.2. Objetivos específicos 
+   Lola
