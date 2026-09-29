@@ -26,6 +26,21 @@
 * **1.6.** Limitaciones y exclusiones
 * **1.7.** Estructura de la memoria
 
+## 2. ANÁLISIS DEL CONTEXTO Y VIABILIDAD
+
+* **2.1.** Sector profesional y perfil de usuarios
+* **2.2.** Análisis de la necesidad
+* **2.3.** Estudio de soluciones existentes
+* **2.4.** Partes interesadas
+* **2.5.** Estudio de viabilidad técnica
+* **2.6.** Estudio de viabilidad económica
+* **2.7.** Estudio de viabilidad legal y normativa
+  * **2.7.1.** Protección de datos personales
+  * **2.7.2.** Propiedad intelectual y licencias
+  * **2.7.3.** Accesibilidad y otros requisitos aplicables
+* **2.8.** Análisis de riesgos inicial
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 # 1. INTRODUCCIÓN
 
