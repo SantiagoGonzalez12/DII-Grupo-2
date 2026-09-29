@@ -44,4 +44,10 @@ En cuanto a la parte técnica de este proyecto el sistema se ha estructurado med
    ### 1.4.1. Objetivo general
 
    ### 1.4.2. Objetivos específicos 
-   Lola
+Aunque el proyecto tiene muy claro dónde quiere llegar, la verdadera captación son en los pequeños detalles que marcan la diferencia. Hoy en día existen muchas aplicaciones que se limitan a cumplir sus función, pero lo que realmente distinguirá a esta es su facilidad de uso y su capacidad para no dejar a nadie fuera.
+
+La aplicación, TempoMedic, nace para acompañar a personas de cualquier edad, aunque pone la mirada en un grupo fundamental, los mayores. Ellos son la población más expuesta a los cambios de los últimos tiempo; no crecieron rodeados de pantallas y han tenido que adaptarse, paso a paso, tanto a las transformaciones tecnológicas como a los avances médicos.
+
+Por eso, la app prescinde de complicaciones innecesarias. Apuesta por una navegación limpia y sencilla, donde la información siempre estará en primera mano junto a la ayuda que se soliciten. 
+
+## 1.5. Alcance del proyecto
