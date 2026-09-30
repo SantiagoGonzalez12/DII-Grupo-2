@@ -79,6 +79,27 @@ Las limitaciones hace referencia a las restricciones técnicas con las que nace 
 
 Las exclusiones son las funcionalidades y responsabilidades que quedan expresamente fuera de la app desde el principio. La app no ofrecerá diagnósticos, recomendaciones médicas ni prescripción de tratamientos bajo ninguna circunstancia. Tampoco se conectará directamente con los sistemas de salud pública ni con historiales clínicos oficiales. Queda excluida la automatización de la compra de medicamentos o el envío a domicilio, así como la atención de urgencias médicas o la integración con dispositivos de dispensación física (como pastilleros inteligentes) en las primeras versiones.
 
+## 1.7. Estructura de la memoria
+En primer lugar hay que hablar del alcance del proyecto:
+* Objetivo general: desarrollar una aplicación móvil para la gestión personal de tratamientos médicos y recordatorios de citas.
+* Objetivos específicos: reducir el olvido de las tomas, centralizar la agenda de consultas y garantizar la privacidad del usuario mediante almacenamiento local.
+
+Módulos y funcionalidades:
+* Módulo de medicación: registro de tratamientos, programación de alarmas/notificaciones y marcar el cumplimiento.
+* Módulo de citas: agenda manual de consultas y sincronización con el calendario nativo.
+* Módulo de persistencia local: almacenamiento seguro en el dispositivo.
+
+En segundo lugar, limitaciones del sistema:
+* Gestión en segundo plano: optimización de la dependencia del sistema operativo.
+* Persistencia y Backup: ausencia de sincronización en la nube, la pérdida del dispositivo implica la pérdida del historial.
+* Entrada de datos: la exactitud de los mismos depende totalmente del registro manual introducido por el usuario.
+
+En tercer lugar, exclusiones del proyecto que están fuera de su alcance:
+* Asistencia médica: no se proporciona diagnóstico ni asesoramiento
+* Integración externa: sin conexión a historial clínico oficiales, APIS de salud pública.
+* Hardware y comercio: sin soporte para un pastillero inteligente ni gestión de compra/envío de medicamentos.
+* Urgencias: no incluye botones de pánico ni protocolos de emergencia médica.
+
 # 2. ANÁLISIS DEL CONTEXTO Y VIABILIDAD
 
 ## 2.1. Sector profesional y perfil de usuarios
