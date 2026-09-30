@@ -4,7 +4,7 @@
 | --- | --- |
 | **Curso** | DAM 2 |
 | **Grupo** | Grupo 2 |
-| **Integrantes** | María Dolores <br> Alba Durán <br> Santiago González <br> Jorge Espejo |
+| **Integrantes** | María Dolores Barba<br> Alba Durán <br> Santiago González <br> Jorge Espejo |
 | **Módulo / profesor** | PI/DII - Willman Acosta Lugo |
 | **Sprint** | Sprint 1 <br> 24/09/2026 – 02/10/2026 |
 | **Repositorios** | <https://github.com/SantiagoGonzalez12/Tempomedic> <br> <https://github.com/SantiagoGonzalez12/Tempomedic-Interfaz> |
@@ -72,6 +72,12 @@ Para definir el alcance de la app, lo ideal es estructurarla en tres fases que v
 * Tercera fase: se intentará conectar la app con bases de datos oficiales de medicamentos para buscar la medicina y detectar interacciones entre ellos. Poder integrar APIS con clínicas para reservar citas desde la app y añadir seguimiento de la medicación.
 
 Los medicamentos tienen que estar protegidos legalmente por la normativa RGPD.
+
+## 1.6. Limitaciones y exclusiones
+No solo se va a definir lo que se va a hacer, sino también lo que no se va hacer para evitar mayores costes, riegos o retrasos.
+Las limitaciones hace referencia a las restricciones técnicas con las que nace el proyecto. La principal limitación es la dependencia de los permisos del sistema operativo para enviar notificaciones push a tiempo y evitar que el móvil "cierre" la app en segundo plano para ahorrar batería. Otra limitación clave es el almacenamiento local de los datos en la primera fase, lo que significa que si el usuario pierde o cambia de teléfono, perderá su historial a menos que haga una copia de seguridad manual. Además, la precisión de las citas dependerá totalmente de que el usuario introduzca los datos correctamente, sin validación en tiempo real con ningún centro médico.
+
+Las exclusiones son las funcionalidades y responsabilidades que quedan expresamente fuera de la app desde el principio. La app no ofrecerá diagnósticos, recomendaciones médicas ni prescripción de tratamientos bajo ninguna circunstancia. Tampoco se conectará directamente con los sistemas de salud pública ni con historiales clínicos oficiales. Queda excluida la automatización de la compra de medicamentos o el envío a domicilio, así como la atención de urgencias médicas o la integración con dispositivos de dispensación física (como pastilleros inteligentes) en las primeras versiones.
 
 # 2. ANÁLISIS DEL CONTEXTO Y VIABILIDAD
 
