@@ -74,10 +74,23 @@ Para definir el alcance de la app, lo ideal es estructurarla en tres fases que v
 Los medicamentos tienen que estar protegidos legalmente por la normativa RGPD.
 
 ## 1.6. Limitaciones y exclusiones
-No solo se va a definir lo que se va a hacer, sino también lo que no se va hacer para evitar mayores costes, riegos o retrasos.
-Las limitaciones hace referencia a las restricciones técnicas con las que nace el proyecto. La principal limitación es la dependencia de los permisos del sistema operativo para enviar notificaciones push a tiempo y evitar que el móvil "cierre" la app en segundo plano para ahorrar batería. Otra limitación clave es el almacenamiento local de los datos en la primera fase, lo que significa que si el usuario pierde o cambia de teléfono, perderá su historial a menos que haga una copia de seguridad manual. Además, la precisión de las citas dependerá totalmente de que el usuario introduzca los datos correctamente, sin validación en tiempo real con ningún centro médico.
+El desarrollo de la aplicación no solo define las funciones que se van a construir, sino también aquellas que quedan fuera de la app para evitar costes innecesarios, problemas de tiempo o riesgos en la entrega.
 
-Las exclusiones son las funcionalidades y responsabilidades que quedan expresamente fuera de la app desde el principio. La app no ofrecerá diagnósticos, recomendaciones médicas ni prescripción de tratamientos bajo ninguna circunstancia. Tampoco se conectará directamente con los sistemas de salud pública ni con historiales clínicos oficiales. Queda excluida la automatización de la compra de medicamentos o el envío a domicilio, así como la atención de urgencias médicas o la integración con dispositivos de dispensación física (como pastilleros inteligentes) en las primeras versiones.
+Las limitaciones son los problemas técnicos con los que nace la app. La principal dificultad es la dependencia de los avisos del propio teléfono, los sistemas operativos a veces bloquean o retrasan las notificaciones para ahorrar batería, por lo que la app debe pedir permisos especiales al usuario. Otra limitación clave es que toda la información se guarda únicamente en el móvil durante esta primera versión, si el usuario pierde o cambia de teléfono, perderá su historial a menos que haga una copia de seguridad manual. Además, la precisión de las citas dependerá al 100% de que el usuario escriba bien las fechas y lugares, ya que la app no se conecta en tiempo real con la agenda del médico.
+
+Las exclusiones son las funciones que quedan expresamente fuera de la app desde el primer día. La aplicación no ofrecerá diagnósticos, consejos de salud ni recetas de ningún tipo. Tampoco se conectará con los sistemas informáticos de la sanidad pública ni con historiales médicos oficiales. Queda excluida la posibilidad de comprar medicinas a domicilio, gestionar urgencias médicas o conectarse con aparatos físicos como pastilleros inteligentes.
+
+Para que la app funcione de forma ágil y ordenada en Java, el código se organiza separando la pantalla de la lógica interna. La pantalla solo se encarga de mostrar la información y recoger lo que toca el usuario, como pulsar "Tomar pastilla"). Por detrás, un módulo invisible procesa esa orden, guarda el dato en la memoria del teléfono y le pide al sistema operativo que reeprograme o cancele la próxima alarma, sin que la aplicación tenga que estar abierta todo el tiempo.
+
+El interior de la app en Java se compone de cuatro elementos principales:
+
+**El Medicamento:** guarda la ficha del tratamiento (nombre de la medicina, cantidad que hay que tomar y cada cuántas horas). Se encarga de calcular automáticamente las fechas y horas de las futuras tomas.
+
+**La Toma:** es el registro de una alarma concreta. Guarda el día, la hora exacta, y si la pastilla se ha marcado como tomada, posponer u omitida.
+
+**La Cita Médica:** guarda la información de la consulta (médico, fecha, hora y lugar) y se encarga de preparar los datos para pasárselos al calendario del teléfono (Google Calendar) cuando el usuario quiera guardarla allí (futura idea).
+
+**El Gestor de Avisos:** Es la pieza que habla directamente con el móvil para poner las alarmas a sonar a la hora exacta, y tiene la función vital de volver a activar todos los recordatorios si el usuario apaga o reinicia el teléfono.
 
 ## 1.7. Estructura de la memoria
 En primer lugar hay que hablar del alcance del proyecto:
