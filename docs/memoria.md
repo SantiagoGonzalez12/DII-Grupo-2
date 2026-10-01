@@ -62,7 +62,14 @@ En el día a día del cuidado de la salud, las personas se encuentran principalm
 * **Olvidos con la medicación:** Muchas personas se preguntan continuamente *"¿A qué hora me tocaba la pastilla?"* y terminan olvidando tomarla. Esto es peligroso para la salud, tanto para quienes toman un tratamiento puntual (como un antibiótico durante una semana) como para pacientes mayores o crónicos que tienen que tomar varias medicinas al día.
 * **Dificultades para pedir cita médica:** Conseguir una cita con el médico, ya sea por internet o en persona, suele ser un proceso lento y desesperante para la mayoría de los usuarios.
 
+## 1.3. Propuesta de solución
 
+Para resolver estos dos problemas nace TempoMedic, una aplicación móvil muy fácil de usar que ayuda a los usuarios a gestionar su salud desde un solo lugar:
+
+* **Recordatorios inteligentes de medicamentos:** El usuario escribe qué medicina tiene que tomar, la dosis y cada cuánto tiempo. La app envía avisos al teléfono (que pueden ser con sonido o solo con vibración) para avisar del momento exacto de la toma, sin necesidad de tener conexión a internet. Además, cuenta con una pantalla principal para ir marcando las pastillas como "Tomada" u "Omitida".
+* **Agenda sencilla de citas médicas:** Permite guardar las próximas visitas al médico eligiendo el especialista o la fecha. La aplicación avisa automáticamente al usuario dos veces (24 horas y 2 horas antes de la cita) y permite guardar el recordatorio en el calendario del propio móvil (como Google Calendar).
+
+  
 ## 1.4. Objetivos del proyecto
    ### 1.4.1. Objetivo general
 
